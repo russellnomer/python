@@ -1,0 +1,384 @@
+--- System Analysis Report ---
+
+--- Disk Health Checks ---
+
+/dev/disk0 verification:
+Started partition map verification on disk0
+Checking prerequisites
+Checking the partition list
+Checking the partition map size
+Checking for an EFI system partition
+Checking the EFI system partition's size
+Checking the EFI system partition's file system
+Checking the EFI system partition's folder content
+Checking all HFS data partition loader spaces
+Checking booter partitions
+Checking Core Storage Physical Volume partitions
+The partition map appears to be OK
+Finished partition map verification on disk0
+
+SMART Info check failed for /dev/disk0 : /bin/sh: smartctl: command not found
+
+
+0: verification:
+
+Errors: Unable to find disk for 0:
+
+SMART Info check failed for 0: : /bin/sh: smartctl: command not found
+
+
+1: verification:
+
+Errors: Unable to find disk for 1:
+
+SMART Info check failed for 1: : /bin/sh: smartctl: command not found
+
+
+2: verification:
+
+Errors: Unable to find disk for 2:
+
+SMART Info check failed for 2: : /bin/sh: smartctl: command not found
+
+
+/dev/disk1 verification:
+
+Errors: Unable to verify this whole disk: A GUID Partition Table (GPT) partitioning scheme is required (-69773)
+
+SMART Info check failed for /dev/disk1 : /bin/sh: smartctl: command not found
+
+
+0: verification:
+
+Errors: Unable to find disk for 0:
+
+SMART Info check failed for 0: : /bin/sh: smartctl: command not found
+
+
+Physical verification:
+
+Errors: Unable to find disk for Physical
+
+SMART Info check failed for Physical : /bin/sh: smartctl: command not found
+
+
+1: verification:
+
+Errors: Unable to find disk for 1:
+
+SMART Info check failed for 1: : /bin/sh: smartctl: command not found
+
+
+2: verification:
+
+Errors: Unable to find disk for 2:
+
+SMART Info check failed for 2: : /bin/sh: smartctl: command not found
+
+
+3: verification:
+
+Errors: Unable to find disk for 3:
+
+SMART Info check failed for 3: : /bin/sh: smartctl: command not found
+
+
+4: verification:
+
+Errors: Unable to find disk for 4:
+
+SMART Info check failed for 4: : /bin/sh: smartctl: command not found
+
+
+5: verification:
+
+Errors: Unable to find disk for 5:
+
+SMART Info check failed for 5: : /bin/sh: smartctl: command not found
+
+
+6: verification:
+
+Errors: Unable to find disk for 6:
+
+SMART Info check failed for 6: : /bin/sh: smartctl: command not found
+
+
+7: verification:
+
+Errors: Unable to find disk for 7:
+
+SMART Info check failed for 7: : /bin/sh: smartctl: command not found
+
+
+/dev/disk2 verification:
+
+Errors: Unable to verify this whole disk: A GUID Partition Table (GPT) partitioning scheme is required (-69773)
+
+SMART Info check failed for /dev/disk2 : /bin/sh: smartctl: command not found
+
+
+0: verification:
+
+Errors: Unable to find disk for 0:
+
+SMART Info check failed for 0: : /bin/sh: smartctl: command not found
+
+
+1: verification:
+
+Errors: Unable to find disk for 1:
+
+SMART Info check failed for 1: : /bin/sh: smartctl: command not found
+
+
+/dev/disk4 verification:
+Started partition map verification on disk4
+Checking prerequisites
+Checking the partition list
+Checking the partition map size
+Checking for an EFI system partition
+Checking all HFS data partition loader spaces
+Checking booter partitions
+Checking Core Storage Physical Volume partitions
+The partition map appears to be OK
+Finished partition map verification on disk4
+
+SMART Info check failed for /dev/disk4 : /bin/sh: smartctl: command not found
+
+
+0: verification:
+
+Errors: Unable to find disk for 0:
+
+SMART Info check failed for 0: : /bin/sh: smartctl: command not found
+
+
+1: verification:
+
+Errors: Unable to find disk for 1:
+
+SMART Info check failed for 1: : /bin/sh: smartctl: command not found
+
+
+/dev/disk5 verification:
+
+Errors: Unable to verify this whole disk: A GUID Partition Table (GPT) partitioning scheme is required (-69773)
+
+SMART Info check failed for /dev/disk5 : /bin/sh: smartctl: command not found
+
+
+0: verification:
+
+Errors: Unable to find disk for 0:
+
+SMART Info check failed for 0: : /bin/sh: smartctl: command not found
+
+
+Physical verification:
+
+Errors: Unable to find disk for Physical
+
+SMART Info check failed for Physical : /bin/sh: smartctl: command not found
+
+
+1: verification:
+
+Errors: Unable to find disk for 1:
+
+SMART Info check failed for 1: : /bin/sh: smartctl: command not found
+
+
+/dev/disk6 verification:
+Started partition map verification on disk6
+Checking prerequisites
+Checking the partition list
+Checking the partition map size
+Checking for an EFI system partition
+Checking all HFS data partition loader spaces
+Checking booter partitions
+Checking Core Storage Physical Volume partitions
+The partition map appears to be OK
+Finished partition map verification on disk6
+
+SMART Info check failed for /dev/disk6 : /bin/sh: smartctl: command not found
+
+
+0: verification:
+
+Errors: Unable to find disk for 0:
+
+SMART Info check failed for 0: : /bin/sh: smartctl: command not found
+
+
+1: verification:
+
+Errors: Unable to find disk for 1:
+
+SMART Info check failed for 1: : /bin/sh: smartctl: command not found
+
+
+/dev/disk7 verification:
+
+Errors: Unable to verify this whole disk: A GUID Partition Table (GPT) partitioning scheme is required (-69773)
+
+SMART Info check failed for /dev/disk7 : /bin/sh: smartctl: command not found
+
+
+0: verification:
+
+Errors: Unable to find disk for 0:
+
+SMART Info check failed for 0: : /bin/sh: smartctl: command not found
+
+
+Physical verification:
+
+Errors: Unable to find disk for Physical
+
+SMART Info check failed for Physical : /bin/sh: smartctl: command not found
+
+
+1: verification:
+
+Errors: Unable to find disk for 1:
+
+SMART Info check failed for 1: : /bin/sh: smartctl: command not found
+
+
+/dev/disk8 verification:
+Started partition map verification on disk8
+Checking prerequisites
+Checking the partition list
+Checking the partition map size
+Checking for an EFI system partition
+Checking all HFS data partition loader spaces
+Checking booter partitions
+Checking Core Storage Physical Volume partitions
+The partition map appears to be OK
+Finished partition map verification on disk8
+
+SMART Info check failed for /dev/disk8 : /bin/sh: smartctl: command not found
+
+
+0: verification:
+
+Errors: Unable to find disk for 0:
+
+SMART Info check failed for 0: : /bin/sh: smartctl: command not found
+
+
+1: verification:
+
+Errors: Unable to find disk for 1:
+
+SMART Info check failed for 1: : /bin/sh: smartctl: command not found
+
+
+/dev/disk9 verification:
+
+Errors: Unable to verify this whole disk: A GUID Partition Table (GPT) partitioning scheme is required (-69773)
+
+SMART Info check failed for /dev/disk9 : /bin/sh: smartctl: command not found
+
+
+0: verification:
+
+Errors: Unable to find disk for 0:
+
+SMART Info check failed for 0: : /bin/sh: smartctl: command not found
+
+
+Physical verification:
+
+Errors: Unable to find disk for Physical
+
+SMART Info check failed for Physical : /bin/sh: smartctl: command not found
+
+
+1: verification:
+
+Errors: Unable to find disk for 1:
+
+SMART Info check failed for 1: : /bin/sh: smartctl: command not found
+
+
+/dev/disk10 verification:
+Started partition map verification on disk10
+Checking prerequisites
+Checking the partition list
+Checking the partition map size
+Checking for an EFI system partition
+Checking all HFS data partition loader spaces
+Checking booter partitions
+Checking Core Storage Physical Volume partitions
+The partition map appears to be OK
+Finished partition map verification on disk10
+
+SMART Info check failed for /dev/disk10 : /bin/sh: smartctl: command not found
+
+
+0: verification:
+
+Errors: Unable to find disk for 0:
+
+SMART Info check failed for 0: : /bin/sh: smartctl: command not found
+
+
+1: verification:
+
+Errors: Unable to find disk for 1:
+
+SMART Info check failed for 1: : /bin/sh: smartctl: command not found
+
+
+/dev/disk11 verification:
+
+Errors: Unable to verify this whole disk: A GUID Partition Table (GPT) partitioning scheme is required (-69773)
+
+SMART Info check failed for /dev/disk11 : /bin/sh: smartctl: command not found
+
+
+0: verification:
+
+Errors: Unable to find disk for 0:
+
+SMART Info check failed for 0: : /bin/sh: smartctl: command not found
+
+
+Physical verification:
+
+Errors: Unable to find disk for Physical
+
+SMART Info check failed for Physical : /bin/sh: smartctl: command not found
+
+
+1: verification:
+
+Errors: Unable to find disk for 1:
+
+SMART Info check failed for 1: : /bin/sh: smartctl: command not found
+
+
+/dev/disk14 verification:
+
+Errors: Unable to verify this whole disk: The target disk is too small for this operation (-69771)
+
+SMART Info check failed for /dev/disk14 : /bin/sh: smartctl: command not found
+
+
+0: verification:
+
+Errors: Unable to find disk for 0:
+
+SMART Info check failed for 0: : /bin/sh: smartctl: command not found
+
+
+1: verification:
+
+Errors: Unable to find disk for 1:
+
+SMART Info check failed for 1: : /bin/sh: smartctl: command not found
+
+
+--- Potential Suspicious Files ---
